@@ -7,7 +7,7 @@
      wordmark: python scripts/make_wordmark_svg.py --mode rock
      how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>ajaysubedi2002@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -22,14 +22,14 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
+<h3><code>ajaysubedi2002@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
+<h3><code>ajaysubedi2002@github ~ $ ./links.sh</code></h3>
 
 <p><b>Fullstack Developer · AI Builder · Instructor</b></p>
 
