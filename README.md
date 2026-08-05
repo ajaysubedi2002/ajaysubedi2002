@@ -11,7 +11,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ajay " /></td>
 <td valign="top"><img src="./wordmark-rock.svg" width="490" alt="AVI — 3D ASCII wordmark" /></td>
 </tr>
 </table>
@@ -31,7 +31,7 @@
 
 <h3><code>ajaysubedi2002@github ~ $ ./links.sh</code></h3>
 
-<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+<p><b>Backend Developer · Gen AI·</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ajaysubedi.netlify.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ajaysubedi.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajaysubedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaysubedi/)
